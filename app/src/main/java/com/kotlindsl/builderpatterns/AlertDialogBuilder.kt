@@ -5,6 +5,11 @@ import android.content.Context
 import android.content.DialogInterface
 import com.kotlindsl.markers.DSLExample
 
+/**
+ * @author Avinash Kumar
+ * @mail avisingh736@gmail.com
+ * */
+
 @DSLExample
 class AlertDialogBuilder {
     var context: Context? = null

@@ -6,6 +6,11 @@ import androidx.databinding.DataBindingUtil
 import com.kotlindsl.builderpatterns.buildAlertDialog
 import com.kotlindsl.databinding.ActivityMainBinding
 
+/**
+ * @author Avinash Kumar
+ * @mail avisingh736@gmail.com
+ * */
+
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
